@@ -5,20 +5,23 @@ A DevDotCom x Coding Club JISCE initiative to Practice Numpy
 Create a folder with your name
 then create a file within that folder with the name task1.py for the first task
 
+
 ```markdown
-- Your Repository
-  - Your Name
-    - task1.py
-    - task2.py
-    - task3.py
-    - ...
-  - other files and folders
+.
+├── Numpy-Practice
+│   ├── Your Name
+│   │   ├── task1.py
+│   │   ├── task2.py
+│   │   ├── task3.py
+│   │   └── ...
+│   ├── other files and folders
+└── ...
 ```
 
-You can copy and paste this tree diagram directly into your `README.md` file on GitHub to provide a visual representation of your repository's structure.
-
 ## A guide to do the tasks with me
-See the tasks as below. Try to think how you can do it on your own. If you cannot do it refer to the guide.ipynb file in guide folder. 
+See the tasks as below. Try to think how you can do it on your own. If you cannot do it refer to the guide.ipynb file in the guide folder. See the code and think what the code is doing. Copy and Run the code in your task file. Think about the output. Also don't forget to use comments to explain what the code is doing.
+
+
 ## Tasks
 
 Task List
