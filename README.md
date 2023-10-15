@@ -1,6 +1,8 @@
 # Numpy-Practice
 A DevDotCom x Coding Club JISCE initiative to Practice Numpy 
-. Also dont forget to star this repo.
+
+## Dont forget to star this repo
+
 ## First steps
 Create a folder with your name
 then create a file within that folder with the name task1.py for the first task
