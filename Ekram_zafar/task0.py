@@ -1,9 +1,8 @@
-.
-├── Numpy-Practice
-│   ├── Ekram_zafar
-│   │   ├── task1.py
-│   │   ├── task2.py
-│   │   ├── task3.py
-│   │   └── ...
-│   ├── other files and folders
-└── ...
+
+# 0. Numpy version
+
+# Import the numpy library and give it the alias 'np'
+import numpy as np
+
+# Print the version of numpy to the console
+print(np.__version__)
