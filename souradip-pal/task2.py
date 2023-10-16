@@ -3,14 +3,21 @@ import numpy as np
 
 # 2. Check whether the array is empty
 
-# Create an empty 2x2 array filled with uninitialized integers
-empty_array = np.empty([2, 2], int)
+# Create two numpy arrays, 'a' (empty) and 'b' (non-empty).
+a = np.array([])
+b = np.array([1, 2])
 
-# Print the content of the empty_array
-print(empty_array)
+# Define a function to check if a given array is empty or not.
+def check_empty(a):
+    # Check if the size of the array is 0, which indicates it's empty.
+    if a.size == 0:
+        print(a, ' : Empty')
+    else:
+        # If the array is not empty, print 'Non Empty'.
+        print(a, ' : Non Empty')
 
-# Print the shape (dimensions) of the empty_array
-print(empty_array.shape)
+# Call the function to check 'a' (empty array).
+check_empty(a)
 
-# Print the total number of elements in the empty_array
-print(empty_array.size)
+# Call the function to check 'b' (non-empty array).
+check_empty(b)
