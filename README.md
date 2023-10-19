@@ -73,7 +73,7 @@ Task List
 42. Between two Dates
 43. Random array and sorting
 44. Random int array and sorting
-45. String to nump,y array
+45. String to numpy array
 46. Find the nearest element in the array
 47. Swap rows
 48. Shuffle
